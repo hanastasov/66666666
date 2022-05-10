@@ -1,0 +1,10 @@
+:host {
+  height: 100%;
+  display: flex;
+  align-items: stretch;
+}
+.user-input {
+  height: max-content;
+  min-width: min-content;
+  flex-shrink: 0;
+}
